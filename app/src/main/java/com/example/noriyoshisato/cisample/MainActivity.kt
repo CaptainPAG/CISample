@@ -12,6 +12,6 @@ class MainActivity : AppCompatActivity() {
 
         Log.d("TAG", "commit log")
 
-        Log.d("TAG", "feature-branch-1")
+        Log.d("TAG", "feature-branch-1_more")
     }
 }
